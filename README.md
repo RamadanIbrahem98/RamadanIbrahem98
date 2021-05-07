@@ -45,3 +45,8 @@
 [linkedin]: https://linkedin.com/in/ramadanibrahem
 [twitter]: https://twitter.com/RmadanIbrahem
 [facebook]: https://facebook.com/Ramadan.Ibrahem19
+
+---
+
+### :zap: GitHub Status
+<img align="left" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" />
