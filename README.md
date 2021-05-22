@@ -51,4 +51,6 @@
 
 <img align="left" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" />
 
-<img align="right" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook&langs_count=3" />
+<br><br>
+
+<img align="left" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook&langs_count=3" />
