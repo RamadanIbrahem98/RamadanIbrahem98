@@ -1,18 +1,19 @@
 ### Hi there, I am Ramadan Ibrahem 👋
-<!-- 
+
+<!--
 **RamadanIbrahem98/RamadanIbrahem98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## I'm a Junior Student at the Faculty of Engineering - Cairo University, Systems & Biomedical Engineering Department.
 
-- 🔭 I’m currently working on my back-end skills
-- 🌱 I’m currently learning A lot of different things 🤣
-- 🥅 2021 Goals: Learn front-end technologies
-- ⚡ Fun fact: I am a movies and series geek
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
+-   🔭 I’m currently working on my back-end skills
+-   🌱 I’m currently learning A lot of different things 🤣
+-   🥅 2021 Goals: Learn front-end technologies
+-   ⚡ Fun fact: I am a movies and series geek
+    <!-- - 👯 I’m looking to collaborate on ... -->
+    <!-- - 🤔 I’m looking for help with ... -->
+    <!-- - 💬 Ask me about ... -->
+    <!-- - 📫 How to reach me: ... -->
+    <!-- - 😄 Pronouns: ... -->
 
 ### Connect with me:
 
@@ -23,7 +24,6 @@
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,12 +41,14 @@
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-
 [linkedin]: https://linkedin.com/in/ramadanibrahem
 [twitter]: https://twitter.com/RmadanIbrahem
 [facebook]: https://facebook.com/Ramadan.Ibrahem19
 
----
+<br><br>
 
 ### :zap: GitHub Status
+
 <img align="left" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" />
+
+<img align="right" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook&langs_count=3" />
