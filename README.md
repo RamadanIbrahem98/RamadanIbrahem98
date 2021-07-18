@@ -1,20 +1,18 @@
 ### Hi there, I am Ramadan Ibrahem 👋
 
-<br>
-
 <!-- 
 **RamadanIbrahem98/RamadanIbrahem98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## I'm a Junior Student at the Faculty of Engineering - Cairo University, Systems & Biomedical Engineering Department.
 
-<!-- -   🔭 I’m currently working on my back-end skills -->
+-   🔭 I’m currently working on my back-end skills
 <!-- -   🌱 I’m currently learning A lot of different things 🤣 -->
-<!-- -   🥅 2021 Goals: Learn front-end technologies -->
-<!-- -   ⚡ Fun fact: I am a movies and series geek -->
+-   ⚡ 2021 Goals: Learn Machine Learning & Deep Learning
+<!-- -   🥅⚡ Fun fact: I am a movies and series geek -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: <mail>ramadan.ibrahem98@eng-st.cu.edu.eg</mail>
 <!-- - 😄 Pronouns: ... -->
 
 <br>
