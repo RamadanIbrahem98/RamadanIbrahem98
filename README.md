@@ -1,10 +1,13 @@
 <img align="center" alt="Welcome to my GitHub" src="github.gif">
-<!-- ### Hi there, I am Ramadan Ibrahem 👋 -->
+
+<br>
+
+# Hi there, I am Ramadan Ibrahem 👋
 
 <!-- 
 **RamadanIbrahem98/RamadanIbrahem98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- ## I'm a Junior Student at the Faculty of Engineering - Cairo University, Systems & Biomedical Engineering Department. -->
+## I'm a Senior Student at the Faculty of Engineering - Cairo University, Systems & Biomedical Engineering Department.
 
 <!-- -   🔭 I’m currently working on my back-end skills -->
 <!-- -   🌱 I’m currently learning A lot of different things 🤣 -->
@@ -16,18 +19,17 @@
 <!-- - 📫 How to reach me: <mail>ramadan.ibrahem98@eng-st.cu.edu.eg</mail> -->
 <!-- - 😄 Pronouns: ... -->
 
-<!-- <br> -->
+### Connect with me:
 
-<!-- ### Connect with me: -->
-
-<!-- [<img align="left" alt="RamadanIbrahem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RamadanIbrahem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RamadanIbrahem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RamadanIbrahem | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="RamadanIbrahem | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="RamadanIbrahem | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/kaggle.svg" />][kaggle] -->
+<!-- [<img align="left" alt="RamadanIbrahem | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/kaggle.svg" />][kaggle] -->
 
 
-<!-- <br /> -->
+<br>
+<br>
 
 <!-- ### Languages and Tools: -->
 
@@ -47,10 +49,10 @@
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> -->
 
-<!-- [linkedin]: https://linkedin.com/in/ramadanibrahem -->
-<!-- [twitter]: https://twitter.com/RmadanIbrahem -->
-<!-- [leetcode]: https://leetcode.com/Ramadan98/ -->
-<!-- [codeforces]: https://codeforces.com/profile/Ramadan98 -->
+[linkedin]: https://linkedin.com/in/ramadanibrahem
+[twitter]: https://twitter.com/RmadanIbrahem
+[leetcode]: https://leetcode.com/Ramadan98/
+[codeforces]: https://codeforces.com/profile/Ramadan98
 <!-- [kaggle]: https://www.kaggle.com/ramadanhegazy -->
 
 <!-- <br><br> -->
@@ -59,8 +61,8 @@
 
 <!-- <br> -->
 
-<!-- <img align="left" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" /> -->
+<img align="left" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" />
 
 <!-- <br><br><br><br> -->
 
-<!-- <img align="left" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook&langs_count=5" /> -->
+<img align="left" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook&langs_count=5" />
