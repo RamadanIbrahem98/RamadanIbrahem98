@@ -4,6 +4,8 @@
 
 # Hi there, I am Ramadan Ibrahem 👋
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamadanIbrahem98&label=Profile%20views&color=0e75b6&style=flat" alt="Ramadan" /> </p> -->
+
 <!-- 
 **RamadanIbrahem98/RamadanIbrahem98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -61,8 +63,10 @@
 
 <!-- <br> -->
 
-<img align="left" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" />
+<img align="center" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" />
 
 <!-- <br><br><br><br> -->
 
-<img align="left" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook&langs_count=5" />
+<img align="center" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook,dart,less,scss,css&langs_count=5" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&" alt="ramadan" /></p>
