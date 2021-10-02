@@ -6,20 +6,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamadanIbrahem98&label=Profile%20views&color=0e75b6&style=flat" alt="Ramadan" /> </p> -->
 
-<!-- 
-**RamadanIbrahem98/RamadanIbrahem98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 ## I'm a Senior Student at the Faculty of Engineering - Cairo University, Systems & Biomedical Engineering Department.
-
-<!-- -   🔭 I’m currently working on my back-end skills -->
-<!-- -   🌱 I’m currently learning A lot of different things 🤣 -->
-<!-- -   ⚡ 2021 Goals: Learn Machine Learning & Deep Learning -->
-<!-- -   🥅⚡ Fun fact: I am a movies and series geek -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: <mail>ramadan.ibrahem98@eng-st.cu.edu.eg</mail> -->
-<!-- - 😄 Pronouns: ... -->
 
 ### Connect with me:
 
@@ -27,8 +14,8 @@
 [<img align="left" alt="RamadanIbrahem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RamadanIbrahem | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="RamadanIbrahem | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/codeforces.svg" />][codeforces]
-<!-- [<img align="left" alt="RamadanIbrahem | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/kaggle.svg" />][kaggle] -->
 
+<!-- [<img align="left" alt="RamadanIbrahem | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/kaggle.svg" />][kaggle] -->
 
 <br>
 <br>
@@ -55,6 +42,7 @@
 [twitter]: https://twitter.com/RmadanIbrahem
 [leetcode]: https://leetcode.com/Ramadan98/
 [codeforces]: https://codeforces.com/profile/Ramadan98
+
 <!-- [kaggle]: https://www.kaggle.com/ramadanhegazy -->
 
 <!-- <br><br> -->
@@ -63,10 +51,13 @@
 
 <!-- <br> -->
 
-<img align="center" alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,sound-equalizer&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <img align="center" src="https://"alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" /> -->
 
 <!-- <br><br><br><br> -->
 
-<img align="center" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook,dart,less,scss,css&langs_count=5" />
+<!-- <img align="center" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook,dart,less,scss,css&langs_count=5&theme=react" /> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&" alt="ramadan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=react" alt="ramadan" /></p>
