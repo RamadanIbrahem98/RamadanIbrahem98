@@ -4,8 +4,6 @@
 
 # Hi there, I am Ramadan Ibrahem 👋
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamadanIbrahem98&label=Profile%20views&color=0e75b6&style=flat" alt="Ramadan" /> </p> -->
-
 ## I'm a Senior Student at the Faculty of Engineering - Cairo University, Systems & Biomedical Engineering Department.
 
 ### Connect with me:
@@ -47,12 +45,20 @@
 
 <!-- <br><br> -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamadanIbrahem98&repo=DSP&theme=radical)](https://github.com/RamadanIbrahem98/DSP)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamadanIbrahem98&repo=huffmanCoding&theme=radical)](https://github.com/RamadanIbrahem98/huffmanCoding)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamadanIbrahem98&repo=RIS&theme=radical)](https://github.com/RamadanIbrahem98/RIS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamadanIbrahem98&repo=STM32F4xx-DMA&theme=radical)](https://github.com/RamadanIbrahem98/STM32F4xx-DMA)
+
 <!-- ### :zap: GitHub Status -->
 
 <!-- <br> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,sound-equalizer&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img align="center" src="https://"alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" /> -->
 
@@ -60,4 +66,6 @@
 
 <!-- <img align="center" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook,dart,less,scss,css&langs_count=5&theme=react" /> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=react" alt="ramadan" /></p>
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=radical" alt="ramadan" /></p> -->
