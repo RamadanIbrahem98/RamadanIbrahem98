@@ -55,14 +55,14 @@
 <!-- <br> -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <img align="center" src="https://"alt="ramadan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RamadanIbrahem98&show_icons=true" /> -->
 
 <!-- <br><br><br><br> -->
 
 <!-- <img align="center" alt="ramadan's GitHub Most Used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&layout=compact&hide=html,jupyter notebook,dart,less,scss,css&langs_count=5&theme=react" /> -->
-
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=radical" alt="ramadan" /></p> -->
