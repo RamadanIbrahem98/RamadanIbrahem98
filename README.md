@@ -30,4 +30,9 @@
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RamadanIbrahem98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+### Random Joke
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23141321&borderColor=%23a09ea2&qColor=%23d83a7c&aColor=%23a9fef7&codeColor=%23fff)
+
+![Snake](https://github.com/RamadanIbrahem98/RamadanIbrahem98/raw/output/github-contribution-grid-snake.svg)
