@@ -1,6 +1,6 @@
 # Hi there, I am Ramadan Ibrahem 👋
 
-## I'm a Senior Student at the Faculty of Engineering - Cairo University, Systems & Biomedical Engineering Department.
+## I'm a Fresh Graduate. Interrested in Backend Engineering
 
 ### Connect with me:
 
