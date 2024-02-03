@@ -26,10 +26,10 @@
 [![Readme Card](https://github-readme-stats-git-main-ramadanibrahem98.vercel.app/api/pin/?username=RamadanIbrahem98&repo=icu-realtime-monitoring-system&theme=radical)](https://github.com/RamadanIbrahem98/icu-realtime-monitoring-system)
 [![Readme Card](https://github-readme-stats-git-main-ramadanibrahem98.vercel.app/api/pin/?username=RamadanIbrahem98&repo=STM32F4xx-DMA&theme=radical)](https://github.com/RamadanIbrahem98/STM32F4xx-DMA) -->
 
-[![GitHub stats](https://github-readme-stats-i2yrx68dz-ramadanibrahem98.vercel.app/api?username=RamadanIbrahem98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](http://github-readme-stats-pftoewjot-ramadanibrahem98.vercel.app/api?username=RamadanIbrahem98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamadanIbrahem98&theme=dark&hide_border=true&border_radius=10&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-i2yrx68dz-ramadanibrahem98.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://github-readme-stats-pftoewjot-ramadanibrahem98.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Random Joke
 
